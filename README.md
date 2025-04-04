@@ -6,3 +6,9 @@ It is important to assume and test multiple ways to frame a given predictive mod
 So Basically what our model does is when we pass an image to our CNN and RNN combined architecture then it will generate the natural description of the image using NLP.
 
 ***e show a generative model based on a deep Recurrent neural architecture that combines with machine translation and which can be used to generate natural sentences which describe an image. The model is trained to maximize the likelihood of the target descriptions sentence given the training images. Experiments on various datasets show the accuracy of the model and the fluency of the language which it learns solely from image descriptions.***
+
+
+Description of Each File:
+build_vocab.py -> is a file that contain the vacabulary class
+model.py -> is where i put my model
+take.ipynb -> is where i execute the code
