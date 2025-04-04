@@ -1,4 +1,4 @@
-# Deep-Learning-Project
+# First-Time Deep-Learning-Project
 
 Image Caption generation is a challenging problem in AI that connects computer vision and NLP where a textual description must be generated for a given photograph. In General Sense for a given image as input, our model describes the exact description of an Image. It requires both image understanding from the domain of computer vision which Convolution Neural Network and a language model from the field of Natural language processing.
 It is important to assume and test multiple ways to frame a given predictive modeling problem and there are indeed many ways to frame the problem of generating captions for photographs. we stick to one which we’ll Explain at the end of this article so hold for some time. can you hold Thor Hammer !!! NO !! but you could hold here, joke apart.
