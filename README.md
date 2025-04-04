@@ -9,6 +9,6 @@ So Basically what our model does is when we pass an image to our CNN and RNN com
 
 
 Description of Each File:
-- build_vocab.py -> is a file that contain the vacabulary class
+- build_vocab.py -> is a file that contain the vocabulary class
 - model.py -> is where i put my model
 - take.ipynb -> is where i execute the code
